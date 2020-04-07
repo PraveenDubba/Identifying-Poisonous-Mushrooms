@@ -1,4 +1,4 @@
-# Production-level R code ready for deployment
+# Identifying Poisonous Mushrooms
 
 => Obtained strong inferences from thorough analysis of independent variables using statistics and visualizations.
 
