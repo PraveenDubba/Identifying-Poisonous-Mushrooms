@@ -1,4 +1,4 @@
-# Identifying Poisonous Mushrooms
+Identifying Poisonous Mushrooms
 
 => Obtained strong inferences from thorough analysis of independent variables using statistics and visualizations.
 
